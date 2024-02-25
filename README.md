@@ -1,0 +1,1 @@
+# manual-uso-squid
